@@ -1,0 +1,15 @@
+new_env/
+.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.ipynb_checkpoints/
+
+
+# Docker artifacts (if generated)
+*.dockerignore
+docker-compose.override.yml
+
+# data/database.db
